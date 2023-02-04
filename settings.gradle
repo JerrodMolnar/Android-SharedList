@@ -1,0 +1,2 @@
+rootProject.name = "Shared List"
+include ':app'
